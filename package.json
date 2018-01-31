@@ -1,6 +1,6 @@
 {
   "name": "wechat-pay",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "wechat payment api for document v3.3.5",
   "main": "index.js",
   "scripts":
@@ -10,19 +10,20 @@
   "repository":
   {
     "type": "git",
-    "url": "git://github.com/supersheep/wechat-pay.git"
+    "url": "git://github.com/liwenyue/swiftpass-wechat-pay.git"
   },
   "keywords": [
     "wechat",
-    "payment"
+    "payment",
+    "swiftpass"
   ],
   "author": "spud",
   "license": "ISC",
   "bugs":
   {
-    "url": "https://github.com/supersheep/wechat-pay/issues"
+    "url": "https://github.com/liwenyue/swiftpass-wechat-pay/issues"
   },
-  "homepage": "https://github.com/supersheep/wechat-pay",
+  "homepage": "https://github.com/liwenyue/swiftpass-wechat-pay",
   "dependencies":
   {
     "md5": "^2.0.0",
